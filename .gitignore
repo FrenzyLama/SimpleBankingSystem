@@ -1,0 +1,42 @@
+# Project exclude paths
+/.gradle/
+/Simple Banking System/task/build/
+/Simple Banking System/task/out/
+/Simple Banking System/task/out/production/classes/
+/Simple Banking System/task/out/test/classes/
+/Topics/java.util.Arrays/Convert the array to a List/out/
+/Topics/java.util.Arrays/Convert the array to a List/out/production/classes/
+/Topics/java.util.Arrays/Convert the array to a stream/out/
+/Topics/java.util.Arrays/Convert the array to a stream/out/production/classes/
+/Topics/Random/Choose a correct invocation/out/
+/Topics/Random/Choose a correct invocation/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/Random/Impossible to generate/out/
+/Topics/Random/Impossible to generate/out/production/classes/
+/Topics/Random/Pseudorandom sequences/out/
+/Topics/Random/Pseudorandom sequences/out/production/classes/
+/Topics/Random/The result of a method/out/
+/Topics/Random/The result of a method/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/Random/Which values can be generated/out/
+/Topics/Random/Which values can be generated/out/production/classes/
+/Topics/Stream pipelines/Counting words/out/
+/Topics/Stream pipelines/Counting words/out/production/classes/
+/Topics/Stream pipelines/Possible pipelines/out/
+/Topics/Stream pipelines/Possible pipelines/out/production/classes/
+/Topics/Stream pipelines/The ten most frequent words/out/
+/Topics/Stream pipelines/The ten most frequent words/out/production/classes/
+/Topics/Stream pipelines/The total number of employees/out/
+/Topics/Stream pipelines/The total number of employees/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
+/Topics/Stream pipelines/Using streams many times/out/
+/Topics/Stream pipelines/Using streams many times/out/production/classes/
+/Topics/Stream pipelines/What is the result/out/
+/Topics/Stream pipelines/What is the result/out/production/classes/

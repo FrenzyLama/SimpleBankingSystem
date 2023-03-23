@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Simple Banking System/task/out" />
+            <option value="$PROJECT_DIR$/Topics/Random/Choose a correct invocation" />
+            <option value="$PROJECT_DIR$/Topics/Random/Find the seed" />
+            <option value="$PROJECT_DIR$/Topics/Random/Gaussian random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random/Impossible to generate" />
+            <option value="$PROJECT_DIR$/Topics/Random/Pseudorandom sequences" />
+            <option value="$PROJECT_DIR$/Topics/Random/The result of a method" />
+            <option value="$PROJECT_DIR$/Topics/Random/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random/Which values can be generated" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Counting words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Possible pipelines" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The ten most frequent words" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The total number of employees" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/The total sum of canceled transactions" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/Using streams many times" />
+            <option value="$PROJECT_DIR$/Topics/Stream pipelines/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Animal" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Assignments" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Types and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a List" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Convert the array to a stream" />
+            <option value="$PROJECT_DIR$/Topics/java.util.Arrays/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
